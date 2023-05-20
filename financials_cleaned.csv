@@ -1,0 +1,701 @@
+,Country, Product ,Units Sold, Revenue per cookie , Cost per cookie , Revenue , Cost , Profit ,Date,Month Number, Month Name ,Year
+0,Canada, Chocolate Chip ,292.0,5.0,2.0,1460.0,584.0,876.0,01/02/2019,2, February ,2019
+1,Mexico, Chocolate Chip ,974.0,5.0,2.0,4870.0,1948.0,2922.0,01/02/2019,2, February ,2019
+2,Canada, Chocolate Chip ,2518.0,5.0,2.0,12590.0,5036.0,7554.0,01/06/2019,6, June ,2019
+3,Germany, Chocolate Chip ,1006.0,5.0,2.0,5030.0,2012.0,3018.0,01/06/2019,6, June ,2019
+4,Germany, Chocolate Chip ,367.0,5.0,2.0,1835.0,734.0,1101.0,01/07/2019,7, July ,2019
+5,Mexico, Chocolate Chip ,883.0,5.0,2.0,4415.0,1766.0,2649.0,01/08/2019,8, August ,2019
+6,France, Chocolate Chip ,549.0,5.0,2.0,2745.0,1098.0,1647.0,01/09/2018,9, September ,2018
+7,Mexico, Chocolate Chip ,788.0,5.0,2.0,3940.0,1576.0,2364.0,01/09/2018,9, September ,2018
+8,Mexico, Chocolate Chip ,2472.0,5.0,2.0,12360.0,4944.0,7416.0,01/09/2019,9, September ,2019
+9,United States, Chocolate Chip ,1143.0,5.0,2.0,5715.0,2286.0,3429.0,01/10/2019,10, October ,2019
+10,Canada, Chocolate Chip ,1725.0,5.0,2.0,8625.0,3450.0,5175.0,01/11/2018,11, November ,2018
+11,United States, Chocolate Chip ,912.0,5.0,2.0,4560.0,1824.0,2736.0,01/11/2018,11, November ,2018
+12,Canada, Chocolate Chip ,2152.0,5.0,2.0,10760.0,4304.0,6456.0,01/12/2018,12, December ,2018
+13,Canada, Chocolate Chip ,1817.0,5.0,2.0,9085.0,3634.0,5451.0,01/12/2019,12, December ,2019
+14,Germany, Chocolate Chip ,1513.0,5.0,2.0,7565.0,3026.0,4539.0,01/12/2019,12, December ,2019
+15,France, Chocolate Chip ,3945.0,5.0,2.0,19725.0,7890.0,11835.0,01/01/2019,1, January ,2019
+16,France, Chocolate Chip ,2296.0,5.0,2.0,11480.0,4592.0,6888.0,01/02/2019,2, February ,2019
+17,France, Chocolate Chip ,1030.0,5.0,2.0,5150.0,2060.0,3090.0,01/05/2019,5, May ,2019
+18,United States, Chocolate Chip ,1514.0,5.0,2.0,7570.0,3028.0,4542.0,01/02/2019,2, February ,2019
+19,United States, Chocolate Chip ,4492.5,5.0,2.0,22462.5,8985.0,13477.5,01/04/2019,4, April ,2019
+20,United States, Chocolate Chip ,727.0,5.0,2.0,3635.0,1454.0,2181.0,01/06/2019,6, June ,2019
+21,France, Chocolate Chip ,787.0,5.0,2.0,3935.0,1574.0,2361.0,01/06/2019,6, June ,2019
+22,Mexico, Chocolate Chip ,1823.0,5.0,2.0,9115.0,3646.0,5469.0,01/07/2019,7, July ,2019
+23,Germany, Chocolate Chip ,747.0,5.0,2.0,3735.0,1494.0,2241.0,01/09/2019,9, September ,2019
+24,Germany, Chocolate Chip ,766.0,5.0,2.0,3830.0,1532.0,2298.0,01/10/2018,10, October ,2018
+25,United States, Chocolate Chip ,2905.0,5.0,2.0,14525.0,5810.0,8715.0,01/11/2019,11, November ,2019
+26,France, Chocolate Chip ,2155.0,5.0,2.0,10775.0,4310.0,6465.0,01/12/2019,12, December ,2019
+27,Canada, Chocolate Chip ,2363.0,5.0,2.0,11815.0,4726.0,7089.0,01/02/2019,2, February ,2019
+28,France, Chocolate Chip ,918.0,5.0,2.0,4590.0,1836.0,2754.0,01/05/2019,5, May ,2019
+29,Germany, Chocolate Chip ,1728.0,5.0,2.0,8640.0,3456.0,5184.0,01/05/2019,5, May ,2019
+30,United States, Chocolate Chip ,1142.0,5.0,2.0,5710.0,2284.0,3426.0,01/06/2019,6, June ,2019
+31,Mexico, Chocolate Chip ,662.0,5.0,2.0,3310.0,1324.0,1986.0,01/06/2019,6, June ,2019
+32,Canada, Chocolate Chip ,1295.0,5.0,2.0,6475.0,2590.0,3885.0,01/10/2019,10, October ,2019
+33,Germany, Chocolate Chip ,809.0,5.0,2.0,4045.0,1618.0,2427.0,01/10/2018,10, October ,2018
+34,Mexico, Chocolate Chip ,2145.0,5.0,2.0,10725.0,4290.0,6435.0,01/10/2018,10, October ,2018
+35,France, Chocolate Chip ,1785.0,5.0,2.0,8925.0,3570.0,5355.0,01/11/2018,11, November ,2018
+36,Canada, Chocolate Chip ,1916.0,5.0,2.0,9580.0,3832.0,5748.0,01/12/2019,12, December ,2019
+37,Canada, Chocolate Chip ,2852.0,5.0,2.0,14260.0,5704.0,8556.0,01/12/2019,12, December ,2019
+38,Canada, Chocolate Chip ,2729.0,5.0,2.0,13645.0,5458.0,8187.0,01/12/2019,12, December ,2019
+39,United States, Chocolate Chip ,1925.0,5.0,2.0,9625.0,3850.0,5775.0,01/12/2018,12, December ,2018
+40,United States, Chocolate Chip ,2013.0,5.0,2.0,10065.0,4026.0,6039.0,01/12/2018,12, December ,2018
+41,France, Chocolate Chip ,1055.0,5.0,2.0,5275.0,2110.0,3165.0,01/12/2019,12, December ,2019
+42,Mexico, Chocolate Chip ,1084.0,5.0,2.0,5420.0,2168.0,3252.0,01/12/2019,12, December ,2019
+43,France, Chocolate Chip ,2434.5,5.0,2.0,12172.5,4869.0,7303.5,01/01/2019,1, January ,2019
+44,Canada, Chocolate Chip ,1774.0,5.0,2.0,8870.0,3548.0,5322.0,01/03/2019,3, March ,2019
+45,France, Chocolate Chip ,1901.0,5.0,2.0,9505.0,3802.0,5703.0,01/06/2019,6, June ,2019
+46,Germany, Chocolate Chip ,689.0,5.0,2.0,3445.0,1378.0,2067.0,01/06/2019,6, June ,2019
+47,Germany, Chocolate Chip ,1570.0,5.0,2.0,7850.0,3140.0,4710.0,01/06/2019,6, June ,2019
+48,United States, Chocolate Chip ,1369.5,5.0,2.0,6847.5,2739.0,4108.5,01/07/2019,7, July ,2019
+49,Canada, Chocolate Chip ,2009.0,5.0,2.0,10045.0,4018.0,6027.0,01/10/2019,10, October ,2019
+50,Germany, Chocolate Chip ,1945.0,5.0,2.0,9725.0,3890.0,5835.0,01/10/2018,10, October ,2018
+51,France, Chocolate Chip ,1287.0,5.0,2.0,6435.0,2574.0,3861.0,01/12/2019,12, December ,2019
+52,Germany, Chocolate Chip ,1706.0,5.0,2.0,8530.0,3412.0,5118.0,01/12/2019,12, December ,2019
+53,Mexico, Chocolate Chip ,1760.0,5.0,2.0,8800.0,3520.0,5280.0,01/09/2018,9, September ,2018
+54,Mexico, Chocolate Chip ,2031.0,5.0,2.0,10155.0,4062.0,6093.0,01/10/2019,10, October ,2019
+55,France, Chocolate Chip ,2261.0,5.0,2.0,11305.0,4522.0,6783.0,01/12/2018,12, December ,2018
+56,Canada, Chocolate Chip ,4251.0,5.0,2.0,21255.0,8502.0,12753.0,01/01/2019,1, January ,2019
+57,Germany, Chocolate Chip ,795.0,5.0,2.0,3975.0,1590.0,2385.0,01/03/2019,3, March ,2019
+58,Germany, Chocolate Chip ,1414.5,5.0,2.0,7072.5,2829.0,4243.5,01/04/2019,4, April ,2019
+59,United States, Chocolate Chip ,2918.0,5.0,2.0,14590.0,5836.0,8754.0,01/05/2019,5, May ,2019
+60,United States, Chocolate Chip ,3450.0,5.0,2.0,17250.0,6900.0,10350.0,01/07/2019,7, July ,2019
+61,France, Chocolate Chip ,2988.0,5.0,2.0,14940.0,5976.0,8964.0,01/07/2019,7, July ,2019
+62,Canada, Chocolate Chip ,218.0,5.0,2.0,1090.0,436.0,654.0,01/09/2019,9, September ,2019
+63,Canada, Chocolate Chip ,2074.0,5.0,2.0,10370.0,4148.0,6222.0,01/09/2019,9, September ,2019
+64,United States, Chocolate Chip ,1056.0,5.0,2.0,5280.0,2112.0,3168.0,01/09/2019,9, September ,2019
+65,United States, Chocolate Chip ,671.0,5.0,2.0,3355.0,1342.0,2013.0,01/10/2018,10, October ,2018
+66,Mexico, Chocolate Chip ,1514.0,5.0,2.0,7570.0,3028.0,4542.0,01/10/2018,10, October ,2018
+67,United States, Chocolate Chip ,274.0,5.0,2.0,1370.0,548.0,822.0,01/12/2019,12, December ,2019
+68,Mexico, Chocolate Chip ,1138.0,5.0,2.0,5690.0,2276.0,3414.0,01/12/2019,12, December ,2019
+69,Germany, Chocolate Chip ,1372.0,5.0,2.0,6860.0,2744.0,4116.0,01/01/2019,1, January ,2019
+70,Canada, Chocolate Chip ,2349.0,5.0,2.0,11745.0,4698.0,7047.0,01/09/2018,9, September ,2018
+71,Mexico, Chocolate Chip ,2689.0,5.0,2.0,13445.0,5378.0,8067.0,01/10/2019,10, October ,2019
+72,Canada, Chocolate Chip ,2431.0,5.0,2.0,12155.0,4862.0,7293.0,01/12/2019,12, December ,2019
+73,France, Chocolate Chip ,1303.0,5.0,2.0,6515.0,2606.0,3909.0,01/02/2019,2, February ,2019
+74,United States, Chocolate Chip ,2992.0,5.0,2.0,14960.0,5984.0,8976.0,01/03/2019,3, March ,2019
+75,France, Chocolate Chip ,2385.0,5.0,2.0,11925.0,4770.0,7155.0,01/03/2019,3, March ,2019
+76,Mexico, Chocolate Chip ,1607.0,5.0,2.0,8035.0,3214.0,4821.0,01/04/2019,4, April ,2019
+77,United States, Chocolate Chip ,2327.0,5.0,2.0,11635.0,4654.0,6981.0,01/05/2019,5, May ,2019
+78,United States, Chocolate Chip ,991.0,5.0,2.0,4955.0,1982.0,2973.0,01/06/2019,6, June ,2019
+79,United States, Chocolate Chip ,602.0,5.0,2.0,3010.0,1204.0,1806.0,01/06/2019,6, June ,2019
+80,France, Chocolate Chip ,2620.0,5.0,2.0,13100.0,5240.0,7860.0,01/09/2019,9, September ,2019
+81,Canada, Chocolate Chip ,1228.0,5.0,2.0,6140.0,2456.0,3684.0,01/10/2018,10, October ,2018
+82,Canada, Chocolate Chip ,1389.0,5.0,2.0,6945.0,2778.0,4167.0,01/10/2018,10, October ,2018
+83,United States, Chocolate Chip ,861.0,5.0,2.0,4305.0,1722.0,2583.0,01/10/2019,10, October ,2019
+84,France, Chocolate Chip ,704.0,5.0,2.0,3520.0,1408.0,2112.0,01/10/2018,10, October ,2018
+85,Canada, Chocolate Chip ,1802.0,5.0,2.0,9010.0,3604.0,5406.0,01/12/2018,12, December ,2018
+86,United States, Chocolate Chip ,2663.0,5.0,2.0,13315.0,5326.0,7989.0,01/12/2019,12, December ,2019
+87,France, Chocolate Chip ,2136.0,5.0,2.0,10680.0,4272.0,6408.0,01/12/2018,12, December ,2018
+88,Germany, Chocolate Chip ,2116.0,5.0,2.0,10580.0,4232.0,6348.0,01/12/2018,12, December ,2018
+89,France, Chocolate Chip ,3801.0,5.0,2.0,19005.0,7602.0,11403.0,01/04/2019,4, April ,2019
+90,France, Chocolate Chip ,1496.0,5.0,2.0,7480.0,2992.0,4488.0,01/06/2019,6, June ,2019
+91,Canada, Chocolate Chip ,2299.0,5.0,2.0,11495.0,4598.0,6897.0,01/10/2018,10, October ,2018
+92,United States, Chocolate Chip ,727.0,5.0,2.0,3635.0,1454.0,2181.0,01/10/2018,10, October ,2018
+93,United States, Chocolate Chip ,2198.0,5.0,2.0,10990.0,4396.0,6594.0,01/08/2019,8, August ,2019
+94,Germany, Chocolate Chip ,1743.0,5.0,2.0,8715.0,3486.0,5229.0,01/08/2019,8, August ,2019
+95,United States, Chocolate Chip ,1153.0,5.0,2.0,5765.0,2306.0,3459.0,01/10/2019,10, October ,2019
+96,France, Chocolate Chip ,1757.0,5.0,2.0,8785.0,3514.0,5271.0,01/10/2018,10, October ,2018
+97,France, Chocolate Chip ,1031.0,5.0,2.0,5155.0,2062.0,3093.0,01/09/2018,9, September ,2018
+98,Canada, Chocolate Chip ,1702.0,5.0,2.0,8510.0,3404.0,5106.0,01/05/2019,5, May ,2019
+99,France, Chocolate Chip ,448.0,5.0,2.0,2240.0,896.0,1344.0,01/06/2019,6, June ,2019
+100,Germany, Chocolate Chip ,3513.0,5.0,2.0,17565.0,7026.0,10539.0,01/07/2019,7, July ,2019
+101,France, Chocolate Chip ,2101.0,5.0,2.0,10505.0,4202.0,6303.0,01/08/2019,8, August ,2019
+102,United States, Chocolate Chip ,2931.0,5.0,2.0,14655.0,5862.0,8793.0,01/09/2018,9, September ,2018
+103,France, Chocolate Chip ,1535.0,5.0,2.0,7675.0,3070.0,4605.0,01/09/2019,9, September ,2019
+104,Germany, Chocolate Chip ,1123.0,5.0,2.0,5615.0,2246.0,3369.0,01/09/2018,9, September ,2018
+105,Canada, Chocolate Chip ,1404.0,5.0,2.0,7020.0,2808.0,4212.0,01/11/2018,11, November ,2018
+106,Mexico, Chocolate Chip ,2763.0,5.0,2.0,13815.0,5526.0,8289.0,01/11/2018,11, November ,2018
+107,Germany, Chocolate Chip ,2125.0,5.0,2.0,10625.0,4250.0,6375.0,01/12/2018,12, December ,2018
+108,Canada, Chocolate Chip ,257.0,5.0,2.0,1285.0,514.0,771.0,01/05/2019,5, May ,2019
+109,Mexico, Chocolate Chip ,1114.0,5.0,2.0,5570.0,2228.0,3342.0,01/03/2019,3, March ,2019
+110,Germany, Chocolate Chip ,1259.0,5.0,2.0,6295.0,2518.0,3777.0,01/04/2019,4, April ,2019
+111,Germany, Chocolate Chip ,1095.0,5.0,2.0,5475.0,2190.0,3285.0,01/05/2019,5, May ,2019
+112,Germany, Chocolate Chip ,1366.0,5.0,2.0,6830.0,2732.0,4098.0,01/06/2019,6, June ,2019
+113,Mexico, Chocolate Chip ,2460.0,5.0,2.0,12300.0,4920.0,7380.0,01/06/2019,6, June ,2019
+114,United States, Chocolate Chip ,678.0,5.0,2.0,3390.0,1356.0,2034.0,01/08/2019,8, August ,2019
+115,Germany, Chocolate Chip ,1598.0,5.0,2.0,7990.0,3196.0,4794.0,01/08/2019,8, August ,2019
+116,Germany, Chocolate Chip ,2409.0,5.0,2.0,12045.0,4818.0,7227.0,01/09/2018,9, September ,2018
+117,Germany, Chocolate Chip ,1934.0,5.0,2.0,9670.0,3868.0,5802.0,01/09/2019,9, September ,2019
+118,Mexico, Chocolate Chip ,2993.0,5.0,2.0,14965.0,5986.0,8979.0,01/09/2019,9, September ,2019
+119,Germany, Chocolate Chip ,2146.0,5.0,2.0,10730.0,4292.0,6438.0,01/11/2018,11, November ,2018
+120,Mexico, Chocolate Chip ,1946.0,5.0,2.0,9730.0,3892.0,5838.0,01/12/2018,12, December ,2018
+121,Mexico, Chocolate Chip ,1362.0,5.0,2.0,6810.0,2724.0,4086.0,01/12/2019,12, December ,2019
+122,Mexico, Chocolate Chip ,2565.0,5.0,2.0,12825.0,5130.0,7695.0,01/01/2019,1, January ,2019
+123,Mexico, Chocolate Chip ,2417.0,5.0,2.0,12085.0,4834.0,7251.0,01/01/2019,1, January ,2019
+124,United States, Chocolate Chip ,3675.0,5.0,2.0,18375.0,7350.0,11025.0,01/04/2019,4, April ,2019
+125,Canada, Chocolate Chip ,1094.0,5.0,2.0,5470.0,2188.0,3282.0,01/06/2019,6, June ,2019
+126,France, Chocolate Chip ,1227.0,5.0,2.0,6135.0,2454.0,3681.0,01/10/2019,10, October ,2019
+127,Mexico, Chocolate Chip ,367.0,5.0,2.0,1835.0,734.0,1101.0,01/10/2018,10, October ,2018
+128,France, Chocolate Chip ,1324.0,5.0,2.0,6620.0,2648.0,3972.0,01/11/2019,11, November ,2019
+129,Germany, Chocolate Chip ,1775.0,5.0,2.0,8875.0,3550.0,5325.0,01/11/2018,11, November ,2018
+130,United States, Chocolate Chip ,2797.0,5.0,2.0,13985.0,5594.0,8391.0,01/12/2019,12, December ,2019
+131,United States, Chocolate Chip ,973.0,5.0,2.0,4865.0,1946.0,2919.0,01/03/2019,3, March ,2019
+132,Mexico, Chocolate Chip ,1038.0,5.0,2.0,5190.0,2076.0,3114.0,01/06/2019,6, June ,2019
+133,Germany, Chocolate Chip ,360.0,5.0,2.0,1800.0,720.0,1080.0,01/10/2019,10, October ,2019
+134,United States, Chocolate Chip ,386.0,5.0,2.0,1930.0,772.0,1158.0,01/10/2018,10, October ,2018
+135,France, Chocolate Chip ,1954.0,5.0,2.0,9770.0,3908.0,5862.0,01/03/2019,3, March ,2019
+136,Mexico, Chocolate Chip ,591.0,5.0,2.0,2955.0,1182.0,1773.0,01/05/2019,5, May ,2019
+137,France, Chocolate Chip ,2167.0,5.0,2.0,10835.0,4334.0,6501.0,01/10/2018,10, October ,2018
+138,Germany, Chocolate Chip ,241.0,5.0,2.0,1205.0,482.0,723.0,01/10/2019,10, October ,2019
+139,France, Chocolate Chip ,2532.0,5.0,2.0,12660.0,5064.0,7596.0,01/04/2019,4, April ,2019
+140,France, Chocolate Chip ,1198.0,5.0,2.0,5990.0,2396.0,3594.0,01/10/2018,10, October ,2018
+141,Canada, Chocolate Chip ,873.0,5.0,2.0,4365.0,1746.0,2619.0,01/01/2019,1, January ,2019
+142,Mexico, Chocolate Chip ,1122.0,5.0,2.0,5610.0,2244.0,3366.0,01/03/2019,3, March ,2019
+143,Canada, Chocolate Chip ,2104.5,5.0,2.0,10522.5,4209.0,6313.5,01/07/2019,7, July ,2019
+144,Canada, Chocolate Chip ,4026.0,5.0,2.0,20130.0,8052.0,12078.0,01/07/2019,7, July ,2019
+145,France, Chocolate Chip ,2425.5,5.0,2.0,12127.5,4851.0,7276.5,01/07/2019,7, July ,2019
+146,Canada, Chocolate Chip ,2394.0,5.0,2.0,11970.0,4788.0,7182.0,01/08/2019,8, August ,2019
+147,Mexico, Chocolate Chip ,1984.0,5.0,2.0,9920.0,3968.0,5952.0,01/08/2019,8, August ,2019
+148,France, Chocolate Chip ,2441.0,5.0,2.0,12205.0,4882.0,7323.0,01/10/2019,10, October ,2019
+149,Germany, Chocolate Chip ,2992.0,5.0,2.0,14960.0,5984.0,8976.0,01/10/2018,10, October ,2018
+150,Canada, Chocolate Chip ,1366.0,5.0,2.0,6830.0,2732.0,4098.0,01/11/2019,11, November ,2019
+151,United States, Chocolate Chip ,380.0,5.0,2.0,1900.0,760.0,1140.0,01/09/2018,9, September ,2018
+152,United States, Chocolate Chip ,3495.0,5.0,2.0,17475.0,6990.0,10485.0,01/01/2019,1, January ,2019
+153,Mexico, Chocolate Chip ,886.0,5.0,2.0,4430.0,1772.0,2658.0,01/06/2019,6, June ,2019
+154,Mexico, Chocolate Chip ,2156.0,5.0,2.0,10780.0,4312.0,6468.0,01/10/2019,10, October ,2019
+155,Mexico, Chocolate Chip ,905.0,5.0,2.0,4525.0,1810.0,2715.0,01/10/2019,10, October ,2019
+156,Mexico, Chocolate Chip ,1715.0,5.0,2.0,8575.0,3430.0,5145.0,01/10/2018,10, October ,2018
+157,France, Chocolate Chip ,1594.0,5.0,2.0,7970.0,3188.0,4782.0,01/11/2019,11, November ,2019
+158,Germany, Chocolate Chip ,1359.0,5.0,2.0,6795.0,2718.0,4077.0,01/11/2019,11, November ,2019
+159,Mexico, Chocolate Chip ,2150.0,5.0,2.0,10750.0,4300.0,6450.0,01/11/2019,11, November ,2019
+160,Mexico, Chocolate Chip ,1197.0,5.0,2.0,5985.0,2394.0,3591.0,01/11/2019,11, November ,2019
+161,Mexico, Chocolate Chip ,380.0,5.0,2.0,1900.0,760.0,1140.0,01/12/2018,12, December ,2018
+162,Mexico, Chocolate Chip ,1233.0,5.0,2.0,6165.0,2466.0,3699.0,01/12/2019,12, December ,2019
+163,Germany, Chocolate Chip ,1531.0,5.0,2.0,7655.0,3062.0,4593.0,01/12/2019,12, December ,2019
+164,United States, Chocolate Chip ,1438.5,5.0,2.0,7192.5,2877.0,4315.5,01/01/2019,1, January ,2019
+165,Germany, Chocolate Chip ,807.0,5.0,2.0,4035.0,1614.0,2421.0,01/01/2019,1, January ,2019
+166,United States, Chocolate Chip ,2641.0,5.0,2.0,13205.0,5282.0,7923.0,01/02/2019,2, February ,2019
+167,Germany, Chocolate Chip ,2708.0,5.0,2.0,13540.0,5416.0,8124.0,01/02/2019,2, February ,2019
+168,Canada, Chocolate Chip ,2632.0,5.0,2.0,13160.0,5264.0,7896.0,01/06/2019,6, June ,2019
+169,Canada, Chocolate Chip ,1583.0,5.0,2.0,7915.0,3166.0,4749.0,01/06/2019,6, June ,2019
+170,Mexico, Chocolate Chip ,571.0,5.0,2.0,2855.0,1142.0,1713.0,01/07/2019,7, July ,2019
+171,France, Chocolate Chip ,2696.0,5.0,2.0,13480.0,5392.0,8088.0,01/08/2019,8, August ,2019
+172,Canada, Chocolate Chip ,1565.0,5.0,2.0,7825.0,3130.0,4695.0,01/10/2019,10, October ,2019
+173,Canada, Chocolate Chip ,1249.0,5.0,2.0,6245.0,2498.0,3747.0,01/10/2019,10, October ,2019
+174,Germany, Chocolate Chip ,357.0,5.0,2.0,1785.0,714.0,1071.0,01/11/2019,11, November ,2019
+175,Germany, Chocolate Chip ,1013.0,5.0,2.0,5065.0,2026.0,3039.0,01/12/2019,12, December ,2019
+176,Germany, Chocolate Chip ,278.0,5.0,2.0,1390.0,556.0,834.0,01/02/2019,2, February ,2019
+177,Canada, Chocolate Chip ,2428.0,5.0,2.0,12140.0,4856.0,7284.0,01/03/2019,3, March ,2019
+178,United States, Chocolate Chip ,1767.0,5.0,2.0,8835.0,3534.0,5301.0,01/09/2019,9, September ,2019
+179,France, Chocolate Chip ,1393.0,5.0,2.0,6965.0,2786.0,4179.0,01/10/2019,10, October ,2019
+180,Mexico, Chocolate Chip ,260.0,5.0,2.0,1300.0,520.0,780.0,01/02/2019,2, February ,2019
+181,Canada, Chocolate Chip ,2470.0,5.0,2.0,12350.0,4940.0,7410.0,01/09/2018,9, September ,2018
+182,Canada, Chocolate Chip ,1743.0,5.0,2.0,8715.0,3486.0,5229.0,01/10/2018,10, October ,2018
+183,United States, Chocolate Chip ,2914.0,5.0,2.0,14570.0,5828.0,8742.0,01/10/2019,10, October ,2019
+184,France, Chocolate Chip ,1731.0,5.0,2.0,8655.0,3462.0,5193.0,01/10/2019,10, October ,2019
+185,Canada, Chocolate Chip ,700.0,5.0,2.0,3500.0,1400.0,2100.0,01/11/2019,11, November ,2019
+186,Canada, Chocolate Chip ,2222.0,5.0,2.0,11110.0,4444.0,6666.0,01/11/2018,11, November ,2018
+187,United States, Chocolate Chip ,1177.0,5.0,2.0,5885.0,2354.0,3531.0,01/11/2019,11, November ,2019
+188,France, Chocolate Chip ,1922.0,5.0,2.0,9610.0,3844.0,5766.0,01/11/2018,11, November ,2018
+189,Germany, Chocolate Chip ,1158.0,5.0,2.0,5790.0,2316.0,3474.0,01/03/2019,3, March ,2019
+190,Canada, Chocolate Chip ,1614.0,5.0,2.0,8070.0,3228.0,4842.0,01/04/2019,4, April ,2019
+191,Mexico, Chocolate Chip ,2535.0,5.0,2.0,12675.0,5070.0,7605.0,01/04/2019,4, April ,2019
+192,Mexico, Chocolate Chip ,2851.0,5.0,2.0,14255.0,5702.0,8553.0,01/05/2019,5, May ,2019
+193,Canada, Chocolate Chip ,2559.0,5.0,2.0,12795.0,5118.0,7677.0,01/08/2019,8, August ,2019
+194,United States, Chocolate Chip ,267.0,5.0,2.0,1335.0,534.0,801.0,01/10/2018,10, October ,2018
+195,Germany, Chocolate Chip ,1085.0,5.0,2.0,5425.0,2170.0,3255.0,01/10/2019,10, October ,2019
+196,Germany, Chocolate Chip ,1175.0,5.0,2.0,5875.0,2350.0,3525.0,01/10/2019,10, October ,2019
+197,United States, Chocolate Chip ,2007.0,5.0,2.0,10035.0,4014.0,6021.0,01/11/2018,11, November ,2018
+198,Mexico, Chocolate Chip ,2151.0,5.0,2.0,10755.0,4302.0,6453.0,01/11/2018,11, November ,2018
+199,United States, Chocolate Chip ,914.0,5.0,2.0,4570.0,1828.0,2742.0,01/12/2019,12, December ,2019
+200,France, Chocolate Chip ,293.0,5.0,2.0,1465.0,586.0,879.0,01/12/2019,12, December ,2019
+201,Canada, Chocolate Chip ,723.0,5.0,2.0,3615.0,1446.0,2169.0,01/04/2019,4, April ,2019
+202,Germany, Fortune Cookie ,921.0,1.0,0.2,921.0,184.2,736.8,01/03/2019,3, March ,2019
+203,Canada, Fortune Cookie ,2518.0,1.0,0.2,2518.0,503.6,2014.4,01/06/2019,6, June ,2019
+204,France, Fortune Cookie ,1899.0,1.0,0.2,1899.0,379.8,1519.2,01/06/2019,6, June ,2019
+205,Germany, Fortune Cookie ,1545.0,1.0,0.2,1545.0,309.0,1236.0,01/06/2019,6, June ,2019
+206,Mexico, Fortune Cookie ,2470.0,1.0,0.2,2470.0,494.0,1976.0,01/06/2019,6, June ,2019
+207,Canada, Fortune Cookie ,2665.5,1.0,0.2,2665.5,533.1,2132.4,01/07/2019,7, July ,2019
+208,Mexico, Fortune Cookie ,958.0,1.0,0.2,958.0,191.6,766.4,01/08/2019,8, August ,2019
+209,Germany, Fortune Cookie ,2146.0,1.0,0.2,2146.0,429.2,1716.8,01/09/2019,9, September ,2019
+210,Canada, Fortune Cookie ,345.0,1.0,0.2,345.0,69.0,276.0,01/10/2018,10, October ,2018
+211,United States, Fortune Cookie ,615.0,1.0,0.2,615.0,123.0,492.0,01/12/2019,12, December ,2019
+212,Mexico, Fortune Cookie ,2214.0,1.0,0.2,2214.0,442.8,1771.2,01/03/2019,3, March ,2019
+213,United States, Fortune Cookie ,2301.0,1.0,0.2,2301.0,460.2,1840.8,01/04/2019,4, April ,2019
+214,France, Fortune Cookie ,1375.5,1.0,0.2,1375.5,275.1,1100.4,01/07/2019,7, July ,2019
+215,Canada, Fortune Cookie ,1830.0,1.0,0.2,1830.0,366.0,1464.0,01/08/2019,8, August ,2019
+216,United States, Fortune Cookie ,2498.0,1.0,0.2,2498.0,499.6,1998.4,01/09/2018,9, September ,2018
+217,United States, Fortune Cookie ,663.0,1.0,0.2,663.0,132.6,530.4,01/10/2018,10, October ,2018
+218,United States, Fortune Cookie ,1142.0,1.0,0.2,1142.0,228.4,913.6,01/06/2019,6, June ,2019
+219,United States, Fortune Cookie ,1566.0,1.0,0.2,1566.0,313.2,1252.8,01/10/2019,10, October ,2019
+220,Mexico, Fortune Cookie ,690.0,1.0,0.2,690.0,138.0,552.0,01/11/2019,11, November ,2019
+221,Mexico, Fortune Cookie ,1660.0,1.0,0.2,1660.0,332.0,1328.0,01/11/2018,11, November ,2018
+222,Germany, Fortune Cookie ,1958.0,1.0,0.2,1958.0,391.6,1566.4,01/02/2019,2, February ,2019
+223,France, Fortune Cookie ,1901.0,1.0,0.2,1901.0,380.2,1520.8,01/06/2019,6, June ,2019
+224,France, Fortune Cookie ,544.0,1.0,0.2,544.0,108.8,435.2,01/09/2019,9, September ,2019
+225,Germany, Fortune Cookie ,1797.0,1.0,0.2,1797.0,359.4,1437.6,01/09/2018,9, September ,2018
+226,France, Fortune Cookie ,1287.0,1.0,0.2,1287.0,257.4,1029.6,01/12/2019,12, December ,2019
+227,Germany, Fortune Cookie ,1706.0,1.0,0.2,1706.0,341.2,1364.8,01/12/2019,12, December ,2019
+228,Mexico, Fortune Cookie ,2031.0,1.0,0.2,2031.0,406.2,1624.8,01/10/2019,10, October ,2019
+229,Canada, Fortune Cookie ,1967.0,1.0,0.2,1967.0,393.4,1573.6,01/03/2019,3, March ,2019
+230,Germany, Fortune Cookie ,1859.0,1.0,0.2,1859.0,371.8,1487.2,01/08/2019,8, August ,2019
+231,Canada, Fortune Cookie ,2851.0,1.0,0.2,2851.0,570.2,2280.8,01/10/2018,10, October ,2018
+232,Germany, Fortune Cookie ,2021.0,1.0,0.2,2021.0,404.2,1616.8,01/10/2019,10, October ,2019
+233,Mexico, Fortune Cookie ,1138.0,1.0,0.2,1138.0,227.6,910.4,01/12/2019,12, December ,2019
+234,Germany, Fortune Cookie ,1159.0,1.0,0.2,1159.0,231.8,927.2,01/10/2018,10, October ,2018
+235,France, Fortune Cookie ,1384.5,1.0,0.2,1384.5,276.9,1107.6,01/01/2019,1, January ,2019
+236,United States, Fortune Cookie ,3627.0,1.0,0.2,3627.0,725.4,2901.6,01/07/2019,7, July ,2019
+237,Mexico, Fortune Cookie ,720.0,1.0,0.2,720.0,144.0,576.0,01/09/2018,9, September ,2018
+238,Germany, Fortune Cookie ,2342.0,1.0,0.2,2342.0,468.4,1873.6,01/11/2019,11, November ,2019
+239,Mexico, Fortune Cookie ,1100.0,1.0,0.2,1100.0,220.0,880.0,01/12/2018,12, December ,2018
+240,Mexico, Fortune Cookie ,980.0,1.0,0.2,980.0,196.0,784.0,01/04/2019,4, April ,2019
+241,Germany, Fortune Cookie ,1460.0,1.0,0.2,1460.0,292.0,1168.0,01/05/2019,5, May ,2019
+242,France, Fortune Cookie ,1403.0,1.0,0.2,1403.0,280.6,1122.4,01/10/2018,10, October ,2018
+243,United States, Fortune Cookie ,2723.0,1.0,0.2,2723.0,544.6,2178.4,01/11/2019,11, November ,2019
+244,France, Fortune Cookie ,1757.0,1.0,0.2,1757.0,351.4,1405.6,01/10/2018,10, October ,2018
+245,Mexico, Fortune Cookie ,2340.0,1.0,0.2,2340.0,468.0,1872.0,01/01/2019,1, January ,2019
+246,France, Fortune Cookie ,2342.0,1.0,0.2,2342.0,468.4,1873.6,01/11/2019,11, November ,2019
+247,France, Fortune Cookie ,1976.0,1.0,0.2,1976.0,395.2,1580.8,01/10/2019,10, October ,2019
+248,France, Fortune Cookie ,2181.0,1.0,0.2,2181.0,436.2,1744.8,01/10/2019,10, October ,2019
+249,Germany, Fortune Cookie ,2500.0,1.0,0.2,2500.0,500.0,2000.0,01/11/2018,11, November ,2018
+250,Canada, Fortune Cookie ,488.0,1.0,0.2,488.0,97.6,390.4,01/02/2019,2, February ,2019
+251,United States, Fortune Cookie ,1282.0,1.0,0.2,1282.0,256.4,1025.6,01/06/2019,6, June ,2019
+252,France, Fortune Cookie ,2501.0,1.0,0.2,2501.0,500.2,2000.8,01/03/2019,3, March ,2019
+253,Canada, Fortune Cookie ,708.0,1.0,0.2,708.0,141.6,566.4,01/06/2019,6, June ,2019
+254,Germany, Fortune Cookie ,645.0,1.0,0.2,645.0,129.0,516.0,01/07/2019,7, July ,2019
+255,France, Fortune Cookie ,1562.0,1.0,0.2,1562.0,312.4,1249.6,01/08/2019,8, August ,2019
+256,Canada, Fortune Cookie ,1283.0,1.0,0.2,1283.0,256.6,1026.4,01/09/2018,9, September ,2018
+257,Germany, Fortune Cookie ,711.0,1.0,0.2,711.0,142.2,568.8,01/12/2019,12, December ,2019
+258,Canada, Fortune Cookie ,3802.5,1.0,0.2,3802.5,760.5,3042.0,01/04/2019,4, April ,2019
+259,France, Fortune Cookie ,1666.0,1.0,0.2,1666.0,333.2,1332.8,01/05/2019,5, May ,2019
+260,France, Fortune Cookie ,322.0,1.0,0.2,322.0,64.4,257.6,01/09/2018,9, September ,2018
+261,Canada, Fortune Cookie ,2321.0,1.0,0.2,2321.0,464.2,1856.8,01/11/2019,11, November ,2019
+262,France, Fortune Cookie ,1857.0,1.0,0.2,1857.0,371.4,1485.6,01/11/2018,11, November ,2018
+263,Canada, Fortune Cookie ,1611.0,1.0,0.2,1611.0,322.2,1288.8,01/12/2018,12, December ,2018
+264,United States, Fortune Cookie ,2797.0,1.0,0.2,2797.0,559.4,2237.6,01/12/2019,12, December ,2019
+265,Germany, Fortune Cookie ,334.0,1.0,0.2,334.0,66.8,267.2,01/12/2018,12, December ,2018
+266,United States, Fortune Cookie ,2328.0,1.0,0.2,2328.0,465.6,1862.4,01/09/2019,9, September ,2019
+267,United States, Fortune Cookie ,2313.0,1.0,0.2,2313.0,462.6,1850.4,01/05/2019,5, May ,2019
+268,United States, Fortune Cookie ,1804.0,1.0,0.2,1804.0,360.8,1443.2,01/11/2018,11, November ,2018
+269,France, Fortune Cookie ,2072.0,1.0,0.2,2072.0,414.4,1657.6,01/12/2019,12, December ,2019
+270,Germany, Fortune Cookie ,766.0,1.0,0.2,766.0,153.2,612.8,01/01/2019,1, January ,2019
+271,Germany, Fortune Cookie ,2992.0,1.0,0.2,2992.0,598.4,2393.6,01/10/2018,10, October ,2018
+272,Mexico, Fortune Cookie ,2157.0,1.0,0.2,2157.0,431.4,1725.6,01/12/2019,12, December ,2019
+273,United States, Fortune Cookie ,677.0,1.0,0.2,677.0,135.4,541.6,01/03/2019,3, March ,2019
+274,France, Fortune Cookie ,1773.0,1.0,0.2,1773.0,354.6,1418.4,01/04/2019,4, April ,2019
+275,Mexico, Fortune Cookie ,2420.0,1.0,0.2,2420.0,484.0,1936.0,01/09/2019,9, September ,2019
+276,Canada, Fortune Cookie ,2734.0,1.0,0.2,2734.0,546.8,2187.2,01/10/2019,10, October ,2019
+277,Mexico, Fortune Cookie ,1715.0,1.0,0.2,1715.0,343.0,1372.0,01/10/2018,10, October ,2018
+278,France, Fortune Cookie ,1186.0,1.0,0.2,1186.0,237.2,948.8,01/12/2018,12, December ,2018
+279,Mexico, Fortune Cookie ,2661.0,1.0,0.2,2661.0,532.2,2128.8,01/05/2019,5, May ,2019
+280,United States, Fortune Cookie ,982.5,1.0,0.2,982.5,196.5,786.0,01/01/2019,1, January ,2019
+281,United States, Fortune Cookie ,1298.0,1.0,0.2,1298.0,259.6,1038.4,01/02/2019,2, February ,2019
+282,Mexico, Fortune Cookie ,604.0,1.0,0.2,604.0,120.8,483.2,01/06/2019,6, June ,2019
+283,Mexico, Fortune Cookie ,2255.0,1.0,0.2,2255.0,451.0,1804.0,01/07/2019,7, July ,2019
+284,Canada, Fortune Cookie ,1249.0,1.0,0.2,1249.0,249.8,999.2,01/10/2019,10, October ,2019
+285,France, Fortune Cookie ,293.0,1.0,0.2,293.0,58.6,234.4,01/02/2019,2, February ,2019
+286,United States, Fortune Cookie ,2996.0,1.0,0.2,2996.0,599.2,2396.8,01/10/2018,10, October ,2018
+287,Canada, Fortune Cookie ,2227.5,1.0,0.2,2227.5,445.5,1782.0,01/01/2019,1, January ,2019
+288,Germany, Fortune Cookie ,1199.0,1.0,0.2,1199.0,239.8,959.2,01/04/2019,4, April ,2019
+289,Canada, Fortune Cookie ,200.0,1.0,0.2,200.0,40.0,160.0,01/05/2019,5, May ,2019
+290,Canada, Fortune Cookie ,388.0,1.0,0.2,388.0,77.6,310.4,01/09/2019,9, September ,2019
+291,Mexico, Fortune Cookie ,1727.0,1.0,0.2,1727.0,345.4,1381.6,01/10/2018,10, October ,2018
+292,Canada, Fortune Cookie ,2300.0,1.0,0.2,2300.0,460.0,1840.0,01/12/2019,12, December ,2019
+293,Mexico, Fortune Cookie ,546.0,1.0,0.2,546.0,109.2,436.8,01/10/2019,10, October ,2019
+294,Mexico, Fortune Cookie ,1368.0,1.0,0.2,1368.0,273.6,1094.4,01/02/2019,2, February ,2019
+295,France, Oatmeal Raisin ,2750.0,5.0,2.2,13750.0,6050.0,7700.0,01/02/2019,2, February ,2019
+296,United States, Oatmeal Raisin ,1953.0,5.0,2.2,9765.0,4296.6,5468.4,01/04/2019,4, April ,2019
+297,Germany, Oatmeal Raisin ,4219.5,5.0,2.2,21097.5,9282.9,11814.6,01/04/2019,4, April ,2019
+298,France, Oatmeal Raisin ,1899.0,5.0,2.2,9495.0,4177.8,5317.2,01/06/2019,6, June ,2019
+299,Germany, Oatmeal Raisin ,1686.0,5.0,2.2,8430.0,3709.2,4720.8,01/07/2019,7, July ,2019
+300,United States, Oatmeal Raisin ,2141.0,5.0,2.2,10705.0,4710.2,5994.8,01/08/2019,8, August ,2019
+301,United States, Oatmeal Raisin ,1143.0,5.0,2.2,5715.0,2514.6,3200.4,01/10/2019,10, October ,2019
+302,United States, Oatmeal Raisin ,615.0,5.0,2.2,3075.0,1353.0,1722.0,01/12/2019,12, December ,2019
+303,United States, Oatmeal Raisin ,1989.0,5.0,2.2,9945.0,4375.8,5569.2,01/09/2018,9, September ,2018
+304,France, Oatmeal Raisin ,321.0,5.0,2.2,1605.0,706.2,898.8,01/11/2018,11, November ,2018
+305,Germany, Oatmeal Raisin ,259.0,5.0,2.2,1295.0,569.8,725.2,01/03/2019,3, March ,2019
+306,Mexico, Oatmeal Raisin ,1101.0,5.0,2.2,5505.0,2422.2,3082.8,01/03/2019,3, March ,2019
+307,Germany, Oatmeal Raisin ,2276.0,5.0,2.2,11380.0,5007.2,6372.8,01/05/2019,5, May ,2019
+308,Germany, Oatmeal Raisin ,2966.0,5.0,2.2,14830.0,6525.2,8304.8,01/10/2018,10, October ,2018
+309,United States, Oatmeal Raisin ,1236.0,5.0,2.2,6180.0,2719.2,3460.8,01/11/2019,11, November ,2019
+310,France, Oatmeal Raisin ,941.0,5.0,2.2,4705.0,2070.2,2634.8,01/11/2019,11, November ,2019
+311,Canada, Oatmeal Raisin ,1916.0,5.0,2.2,9580.0,4215.2,5364.8,01/12/2019,12, December ,2019
+312,Mexico, Oatmeal Raisin ,1865.0,5.0,2.2,9325.0,4103.0,5222.0,01/02/2019,2, February ,2019
+313,Mexico, Oatmeal Raisin ,1074.0,5.0,2.2,5370.0,2362.8,3007.2,01/04/2019,4, April ,2019
+314,Germany, Oatmeal Raisin ,1907.0,5.0,2.2,9535.0,4195.4,5339.6,01/09/2019,9, September ,2019
+315,United States, Oatmeal Raisin ,671.0,5.0,2.2,3355.0,1476.2,1878.8,01/10/2018,10, October ,2018
+316,Canada, Oatmeal Raisin ,1778.0,5.0,2.2,8890.0,3911.6,4978.4,01/12/2018,12, December ,2018
+317,Mexico, Oatmeal Raisin ,1683.0,5.0,2.2,8415.0,3702.6,4712.4,01/07/2019,7, July ,2019
+318,Mexico, Oatmeal Raisin ,1123.0,5.0,2.2,5615.0,2470.6,3144.4,01/08/2019,8, August ,2019
+319,Germany, Oatmeal Raisin ,1159.0,5.0,2.2,5795.0,2549.8,3245.2,01/10/2018,10, October ,2018
+320,Germany, Oatmeal Raisin ,1350.0,5.0,2.2,6750.0,2970.0,3780.0,01/02/2019,2, February ,2019
+321,Canada, Oatmeal Raisin ,552.0,5.0,2.2,2760.0,1214.4,1545.6,01/08/2019,8, August ,2019
+322,Canada, Oatmeal Raisin ,1228.0,5.0,2.2,6140.0,2701.6,3438.4,01/10/2018,10, October ,2018
+323,Germany, Oatmeal Raisin ,1250.0,5.0,2.2,6250.0,2750.0,3500.0,01/12/2019,12, December ,2019
+324,France, Oatmeal Raisin ,1987.5,5.0,2.2,9937.5,4372.5,5565.0,01/01/2019,1, January ,2019
+325,Mexico, Oatmeal Raisin ,1679.0,5.0,2.2,8395.0,3693.8,4701.2,01/09/2019,9, September ,2019
+326,United States, Oatmeal Raisin ,727.0,5.0,2.2,3635.0,1599.4,2035.6,01/10/2018,10, October ,2018
+327,France, Oatmeal Raisin ,1403.0,5.0,2.2,7015.0,3086.6,3928.4,01/10/2018,10, October ,2018
+328,France, Oatmeal Raisin ,2076.0,5.0,2.2,10380.0,4567.2,5812.8,01/10/2018,10, October ,2018
+329,Canada, Oatmeal Raisin ,1135.0,5.0,2.2,5675.0,2497.0,3178.0,01/06/2019,6, June ,2019
+330,Canada, Oatmeal Raisin ,1645.0,5.0,2.2,8225.0,3619.0,4606.0,01/05/2019,5, May ,2019
+331,France, Oatmeal Raisin ,2876.0,5.0,2.2,14380.0,6327.2,8052.8,01/09/2019,9, September ,2019
+332,Germany, Oatmeal Raisin ,994.0,5.0,2.2,4970.0,2186.8,2783.2,01/09/2018,9, September ,2018
+333,Canada, Oatmeal Raisin ,1118.0,5.0,2.2,5590.0,2459.6,3130.4,01/11/2019,11, November ,2019
+334,United States, Oatmeal Raisin ,1372.0,5.0,2.2,6860.0,3018.4,3841.6,01/12/2019,12, December ,2019
+335,United States, Oatmeal Raisin ,1282.0,5.0,2.2,6410.0,2820.4,3589.6,01/06/2019,6, June ,2019
+336,Canada, Oatmeal Raisin ,708.0,5.0,2.2,3540.0,1557.6,1982.4,01/06/2019,6, June ,2019
+337,United States, Oatmeal Raisin ,2907.0,5.0,2.2,14535.0,6395.4,8139.6,01/06/2019,6, June ,2019
+338,Germany, Oatmeal Raisin ,1366.0,5.0,2.2,6830.0,3005.2,3824.8,01/06/2019,6, June ,2019
+339,Mexico, Oatmeal Raisin ,2460.0,5.0,2.2,12300.0,5412.0,6888.0,01/06/2019,6, June ,2019
+340,Germany, Oatmeal Raisin ,1520.0,5.0,2.2,7600.0,3344.0,4256.0,01/11/2019,11, November ,2019
+341,Germany, Oatmeal Raisin ,711.0,5.0,2.2,3555.0,1564.2,1990.8,01/12/2019,12, December ,2019
+342,Mexico, Oatmeal Raisin ,1375.0,5.0,2.2,6875.0,3025.0,3850.0,01/12/2018,12, December ,2018
+343,Mexico, Oatmeal Raisin ,635.0,5.0,2.2,3175.0,1397.0,1778.0,01/12/2019,12, December ,2019
+344,United States, Oatmeal Raisin ,2071.0,5.0,2.2,10355.0,4556.2,5798.8,01/09/2019,9, September ,2019
+345,Canada, Oatmeal Raisin ,1269.0,5.0,2.2,6345.0,2791.8,3553.2,01/10/2019,10, October ,2019
+346,Germany, Oatmeal Raisin ,970.0,5.0,2.2,4850.0,2134.0,2716.0,01/11/2018,11, November ,2018
+347,Mexico, Oatmeal Raisin ,1694.0,5.0,2.2,8470.0,3726.8,4743.2,01/11/2019,11, November ,2019
+348,Mexico, Oatmeal Raisin ,1038.0,5.0,2.2,5190.0,2283.6,2906.4,01/06/2019,6, June ,2019
+349,Canada, Oatmeal Raisin ,1630.5,5.0,2.2,8152.5,3587.1,4565.4,01/07/2019,7, July ,2019
+350,France, Oatmeal Raisin ,306.0,5.0,2.2,1530.0,673.2,856.8,01/12/2018,12, December ,2018
+351,United States, Oatmeal Raisin ,579.0,5.0,2.2,2895.0,1273.8,1621.2,01/01/2019,1, January ,2019
+352,Canada, Oatmeal Raisin ,2240.0,5.0,2.2,11200.0,4928.0,6272.0,01/02/2019,2, February ,2019
+353,United States, Oatmeal Raisin ,2993.0,5.0,2.2,14965.0,6584.6,8380.4,01/03/2019,3, March ,2019
+354,Canada, Oatmeal Raisin ,3520.5,5.0,2.2,17602.5,7745.1,9857.4,01/04/2019,4, April ,2019
+355,Mexico, Oatmeal Raisin ,2039.0,5.0,2.2,10195.0,4485.8,5709.2,01/05/2019,5, May ,2019
+356,Germany, Oatmeal Raisin ,2574.0,5.0,2.2,12870.0,5662.8,7207.2,01/08/2019,8, August ,2019
+357,Canada, Oatmeal Raisin ,707.0,5.0,2.2,3535.0,1555.4,1979.6,01/09/2019,9, September ,2019
+358,France, Oatmeal Raisin ,2072.0,5.0,2.2,10360.0,4558.4,5801.6,01/12/2019,12, December ,2019
+359,France, Oatmeal Raisin ,853.0,5.0,2.2,4265.0,1876.6,2388.4,01/12/2019,12, December ,2019
+360,United States, Oatmeal Raisin ,3199.5,5.0,2.2,15997.5,7038.9,8958.6,01/07/2019,7, July ,2019
+361,Germany, Oatmeal Raisin ,472.0,5.0,2.2,2360.0,1038.4,1321.6,01/10/2019,10, October ,2019
+362,Germany, Oatmeal Raisin ,3165.0,5.0,2.2,15825.0,6963.0,8862.0,01/01/2019,1, January ,2019
+363,Mexico, Oatmeal Raisin ,2629.0,5.0,2.2,13145.0,5783.8,7361.2,01/01/2019,1, January ,2019
+364,France, Oatmeal Raisin ,1433.0,5.0,2.2,7165.0,3152.6,4012.4,01/05/2019,5, May ,2019
+365,Mexico, Oatmeal Raisin ,947.0,5.0,2.2,4735.0,2083.4,2651.6,01/09/2018,9, September ,2018
+366,Mexico, Oatmeal Raisin ,344.0,5.0,2.2,1720.0,756.8,963.2,01/10/2018,10, October ,2018
+367,Mexico, Oatmeal Raisin ,2157.0,5.0,2.2,10785.0,4745.4,6039.6,01/12/2019,12, December ,2019
+368,United States, Oatmeal Raisin ,270.0,5.0,2.2,1350.0,594.0,756.0,01/02/2019,2, February ,2019
+369,France, Oatmeal Raisin ,3421.5,5.0,2.2,17107.5,7527.3,9580.2,01/07/2019,7, July ,2019
+370,Canada, Oatmeal Raisin ,2734.0,5.0,2.2,13670.0,6014.8,7655.2,01/10/2019,10, October ,2019
+371,United States, Oatmeal Raisin ,2548.0,5.0,2.2,12740.0,5605.6,7134.4,01/11/2018,11, November ,2018
+372,Canada, Oatmeal Raisin ,2761.0,5.0,2.2,13805.0,6074.2,7730.8,01/09/2018,9, September ,2018
+373,Canada, Oatmeal Raisin ,1659.0,5.0,2.2,8295.0,3649.8,4645.2,01/01/2019,1, January ,2019
+374,France, Oatmeal Raisin ,1190.0,5.0,2.2,5950.0,2618.0,3332.0,01/06/2019,6, June ,2019
+375,Mexico, Oatmeal Raisin ,410.0,5.0,2.2,2050.0,902.0,1148.0,01/10/2019,10, October ,2019
+376,Germany, Oatmeal Raisin ,1770.0,5.0,2.2,8850.0,3894.0,4956.0,01/12/2018,12, December ,2018
+377,France, Oatmeal Raisin ,1393.0,5.0,2.2,6965.0,3064.6,3900.4,01/10/2019,10, October ,2019
+378,United States, Oatmeal Raisin ,2015.0,5.0,2.2,10075.0,4433.0,5642.0,01/12/2018,12, December ,2018
+379,Canada, Oatmeal Raisin ,888.0,5.0,2.2,4440.0,1953.6,2486.4,01/03/2019,3, March ,2019
+380,United States, Oatmeal Raisin ,2844.0,5.0,2.2,14220.0,6256.8,7963.2,01/05/2019,5, May ,2019
+381,France, Oatmeal Raisin ,2475.0,5.0,2.2,12375.0,5445.0,6930.0,01/08/2019,8, August ,2019
+382,Canada, Oatmeal Raisin ,1743.0,5.0,2.2,8715.0,3834.6,4880.4,01/10/2018,10, October ,2018
+383,United States, Oatmeal Raisin ,2914.0,5.0,2.2,14570.0,6410.8,8159.2,01/10/2019,10, October ,2019
+384,France, Oatmeal Raisin ,1731.0,5.0,2.2,8655.0,3808.2,4846.8,01/10/2019,10, October ,2019
+385,Mexico, Oatmeal Raisin ,1727.0,5.0,2.2,8635.0,3799.4,4835.6,01/10/2018,10, October ,2018
+386,Mexico, Oatmeal Raisin ,1870.0,5.0,2.2,9350.0,4114.0,5236.0,01/11/2018,11, November ,2018
+387,France, Oatmeal Raisin ,2475.0,5.0,2.2,12375.0,5445.0,6930.0,01/03/2019,3, March ,2019
+388,Mexico, Oatmeal Raisin ,546.0,5.0,2.2,2730.0,1201.2,1528.8,01/10/2019,10, October ,2019
+389,Canada, Snickerdoodle ,1618.5,4.0,1.5,6474.0,2427.75,4046.25,01/01/2019,1, January ,2019
+390,Germany, Snickerdoodle ,1321.0,4.0,1.5,5284.0,1981.5,3302.5,01/01/2019,1, January ,2019
+391,France, Snickerdoodle ,2178.0,4.0,1.5,8712.0,3267.0,5445.0,01/06/2019,6, June ,2019
+392,Germany, Snickerdoodle ,888.0,4.0,1.5,3552.0,1332.0,2220.0,01/06/2019,6, June ,2019
+393,Mexico, Snickerdoodle ,2470.0,4.0,1.5,9880.0,3705.0,6175.0,01/06/2019,6, June ,2019
+394,Germany, Snickerdoodle ,1513.0,4.0,1.5,6052.0,2269.5,3782.5,01/12/2019,12, December ,2019
+395,United States, Snickerdoodle ,1858.0,4.0,1.5,7432.0,2787.0,4645.0,01/02/2019,2, February ,2019
+396,Mexico, Snickerdoodle ,1210.0,4.0,1.5,4840.0,1815.0,3025.0,01/03/2019,3, March ,2019
+397,United States, Snickerdoodle ,2529.0,4.0,1.5,10116.0,3793.5,6322.5,01/07/2019,7, July ,2019
+398,Canada, Snickerdoodle ,1445.0,4.0,1.5,5780.0,2167.5,3612.5,01/09/2019,9, September ,2019
+399,United States, Snickerdoodle ,330.0,4.0,1.5,1320.0,495.0,825.0,01/09/2018,9, September ,2018
+400,France, Snickerdoodle ,2671.0,4.0,1.5,10684.0,4006.5,6677.5,01/09/2019,9, September ,2019
+401,Germany, Snickerdoodle ,766.0,4.0,1.5,3064.0,1149.0,1915.0,01/10/2018,10, October ,2018
+402,Mexico, Snickerdoodle ,494.0,4.0,1.5,1976.0,741.0,1235.0,01/10/2018,10, October ,2018
+403,Mexico, Snickerdoodle ,1397.0,4.0,1.5,5588.0,2095.5,3492.5,01/10/2019,10, October ,2019
+404,France, Snickerdoodle ,2155.0,4.0,1.5,8620.0,3232.5,5387.5,01/12/2019,12, December ,2019
+405,Canada, Snickerdoodle ,742.5,4.0,1.5,2970.0,1113.75,1856.25,01/04/2019,4, April ,2019
+406,Canada, Snickerdoodle ,1295.0,4.0,1.5,5180.0,1942.5,3237.5,01/10/2019,10, October ,2019
+407,Germany, Snickerdoodle ,214.0,4.0,1.5,856.0,321.0,535.0,01/10/2018,10, October ,2018
+408,France, Snickerdoodle ,2145.0,4.0,1.5,8580.0,3217.5,5362.5,01/11/2018,11, November ,2018
+409,Canada, Snickerdoodle ,2852.0,4.0,1.5,11408.0,4278.0,7130.0,01/12/2019,12, December ,2019
+410,France, Snickerdoodle ,4243.5,4.0,1.5,16974.0,6365.25,10608.75,01/04/2019,4, April ,2019
+411,Germany, Snickerdoodle ,2580.0,4.0,1.5,10320.0,3870.0,6450.0,01/04/2019,4, April ,2019
+412,Germany, Snickerdoodle ,689.0,4.0,1.5,2756.0,1033.5,1722.5,01/06/2019,6, June ,2019
+413,United States, Snickerdoodle ,1947.0,4.0,1.5,7788.0,2920.5,4867.5,01/09/2019,9, September ,2019
+414,Canada, Snickerdoodle ,908.0,4.0,1.5,3632.0,1362.0,2270.0,01/12/2018,12, December ,2018
+415,Canada, Snickerdoodle ,831.0,4.0,1.5,3324.0,1246.5,2077.5,01/05/2019,5, May ,2019
+416,Canada, Snickerdoodle ,2851.0,4.0,1.5,11404.0,4276.5,7127.5,01/10/2018,10, October ,2018
+417,Germany, Snickerdoodle ,2021.0,4.0,1.5,8084.0,3031.5,5052.5,01/10/2019,10, October ,2019
+418,United States, Snickerdoodle ,274.0,4.0,1.5,1096.0,411.0,685.0,01/12/2019,12, December ,2019
+419,France, Snickerdoodle ,1865.0,4.0,1.5,7460.0,2797.5,4662.5,01/02/2019,2, February ,2019
+420,Germany, Snickerdoodle ,1116.0,4.0,1.5,4464.0,1674.0,2790.0,01/02/2019,2, February ,2019
+421,France, Snickerdoodle ,1563.0,4.0,1.5,6252.0,2344.5,3907.5,01/05/2019,5, May ,2019
+422,United States, Snickerdoodle ,991.0,4.0,1.5,3964.0,1486.5,2477.5,01/06/2019,6, June ,2019
+423,Germany, Snickerdoodle ,1016.0,4.0,1.5,4064.0,1524.0,2540.0,01/11/2018,11, November ,2018
+424,Mexico, Snickerdoodle ,2791.0,4.0,1.5,11164.0,4186.5,6977.5,01/11/2019,11, November ,2019
+425,United States, Snickerdoodle ,570.0,4.0,1.5,2280.0,855.0,1425.0,01/12/2019,12, December ,2019
+426,France, Snickerdoodle ,2487.0,4.0,1.5,9948.0,3730.5,6217.5,01/12/2019,12, December ,2019
+427,United States, Snickerdoodle ,1117.5,4.0,1.5,4470.0,1676.25,2793.75,01/01/2019,1, January ,2019
+428,Canada, Snickerdoodle ,2844.0,4.0,1.5,11376.0,4266.0,7110.0,01/06/2019,6, June ,2019
+429,Mexico, Snickerdoodle ,562.0,4.0,1.5,2248.0,843.0,1405.0,01/09/2019,9, September ,2019
+430,Canada, Snickerdoodle ,2299.0,4.0,1.5,9196.0,3448.5,5747.5,01/10/2018,10, October ,2018
+431,United States, Snickerdoodle ,2030.0,4.0,1.5,8120.0,3045.0,5075.0,01/11/2019,11, November ,2019
+432,United States, Snickerdoodle ,263.0,4.0,1.5,1052.0,394.5,657.5,01/11/2018,11, November ,2018
+433,Germany, Snickerdoodle ,887.0,4.0,1.5,3548.0,1330.5,2217.5,01/12/2018,12, December ,2018
+434,Mexico, Snickerdoodle ,727.0,4.0,1.5,2908.0,1090.5,1817.5,01/02/2019,2, February ,2019
+435,Canada, Snickerdoodle ,1884.0,4.0,1.5,7536.0,2826.0,4710.0,01/08/2019,8, August ,2019
+436,Mexico, Snickerdoodle ,1834.0,4.0,1.5,7336.0,2751.0,4585.0,01/09/2018,9, September ,2018
+437,United States, Snickerdoodle ,1761.0,4.0,1.5,7044.0,2641.5,4402.5,01/03/2019,3, March ,2019
+438,France, Snickerdoodle ,448.0,4.0,1.5,1792.0,672.0,1120.0,01/06/2019,6, June ,2019
+439,France, Snickerdoodle ,2181.0,4.0,1.5,8724.0,3271.5,5452.5,01/10/2019,10, October ,2019
+440,Mexico, Snickerdoodle ,1540.0,4.0,1.5,6160.0,2310.0,3850.0,01/08/2019,8, August ,2019
+441,France, Snickerdoodle ,490.0,4.0,1.5,1960.0,735.0,1225.0,01/11/2019,11, November ,2019
+442,Mexico, Snickerdoodle ,1362.0,4.0,1.5,5448.0,2043.0,3405.0,01/12/2019,12, December ,2019
+443,Canada, Snickerdoodle ,1094.0,4.0,1.5,4376.0,1641.0,2735.0,01/06/2019,6, June ,2019
+444,Mexico, Snickerdoodle ,367.0,4.0,1.5,1468.0,550.5,917.5,01/10/2018,10, October ,2018
+445,Germany, Snickerdoodle ,663.0,4.0,1.5,2652.0,994.5,1657.5,01/05/2019,5, May ,2019
+446,Canada, Snickerdoodle ,819.0,4.0,1.5,3276.0,1228.5,2047.5,01/07/2019,7, July ,2019
+447,Germany, Snickerdoodle ,1580.0,4.0,1.5,6320.0,2370.0,3950.0,01/09/2019,9, September ,2019
+448,Mexico, Snickerdoodle ,521.0,4.0,1.5,2084.0,781.5,1302.5,01/12/2019,12, December ,2019
+449,United States, Snickerdoodle ,386.0,4.0,1.5,1544.0,579.0,965.0,01/10/2018,10, October ,2018
+450,United States, Snickerdoodle ,3445.5,4.0,1.5,13782.0,5168.25,8613.75,01/04/2019,4, April ,2019
+451,France, Snickerdoodle ,1482.0,4.0,1.5,5928.0,2223.0,3705.0,01/12/2018,12, December ,2018
+452,France, Snickerdoodle ,1198.0,4.0,1.5,4792.0,1797.0,2995.0,01/10/2018,10, October ,2018
+453,Canada, Snickerdoodle ,1937.0,4.0,1.5,7748.0,2905.5,4842.5,01/02/2019,2, February ,2019
+454,Germany, Snickerdoodle ,792.0,4.0,1.5,3168.0,1188.0,1980.0,01/03/2019,3, March ,2019
+455,Germany, Snickerdoodle ,2811.0,4.0,1.5,11244.0,4216.5,7027.5,01/07/2019,7, July ,2019
+456,France, Snickerdoodle ,2441.0,4.0,1.5,9764.0,3661.5,6102.5,01/10/2019,10, October ,2019
+457,Canada, Snickerdoodle ,1560.0,4.0,1.5,6240.0,2340.0,3900.0,01/11/2018,11, November ,2018
+458,Mexico, Snickerdoodle ,2706.0,4.0,1.5,10824.0,4059.0,6765.0,01/11/2018,11, November ,2018
+459,Mexico, Snickerdoodle ,886.0,4.0,1.5,3544.0,1329.0,2215.0,01/06/2019,6, June ,2019
+460,Canada, Snickerdoodle ,2416.0,4.0,1.5,9664.0,3624.0,6040.0,01/09/2018,9, September ,2018
+461,Mexico, Snickerdoodle ,2156.0,4.0,1.5,8624.0,3234.0,5390.0,01/10/2019,10, October ,2019
+462,Canada, Snickerdoodle ,2689.0,4.0,1.5,10756.0,4033.5,6722.5,01/11/2019,11, November ,2019
+463,France, Snickerdoodle ,2521.5,4.0,1.5,10086.0,3782.25,6303.75,01/01/2019,1, January ,2019
+464,United States, Snickerdoodle ,2567.0,4.0,1.5,10268.0,3850.5,6417.5,01/06/2019,6, June ,2019
+465,Canada, Snickerdoodle ,923.0,4.0,1.5,3692.0,1384.5,2307.5,01/03/2019,3, March ,2019
+466,France, Snickerdoodle ,1790.0,4.0,1.5,7160.0,2685.0,4475.0,01/03/2019,3, March ,2019
+467,Germany, Snickerdoodle ,442.0,4.0,1.5,1768.0,663.0,1105.0,01/09/2018,9, September ,2018
+468,Mexico, Snickerdoodle ,2579.0,4.0,1.5,10316.0,3868.5,6447.5,01/04/2019,4, April ,2019
+469,United States, Snickerdoodle ,1743.0,4.0,1.5,6972.0,2614.5,4357.5,01/05/2019,5, May ,2019
+470,United States, Snickerdoodle ,2996.0,4.0,1.5,11984.0,4494.0,7490.0,01/10/2018,10, October ,2018
+471,Germany, Snickerdoodle ,280.0,4.0,1.5,1120.0,420.0,700.0,01/12/2019,12, December ,2019
+472,Mexico, Snickerdoodle ,801.0,4.0,1.5,3204.0,1201.5,2002.5,01/07/2019,7, July ,2019
+473,France, Snickerdoodle ,1023.0,4.0,1.5,4092.0,1534.5,2557.5,01/09/2018,9, September ,2018
+474,Canada, Snickerdoodle ,1496.0,4.0,1.5,5984.0,2244.0,3740.0,01/10/2019,10, October ,2019
+475,United States, Snickerdoodle ,1010.0,4.0,1.5,4040.0,1515.0,2525.0,01/10/2019,10, October ,2019
+476,Germany, Snickerdoodle ,1513.0,4.0,1.5,6052.0,2269.5,3782.5,01/11/2019,11, November ,2019
+477,Canada, Snickerdoodle ,2300.0,4.0,1.5,9200.0,3450.0,5750.0,01/12/2019,12, December ,2019
+478,Mexico, Snickerdoodle ,2821.0,4.0,1.5,11284.0,4231.5,7052.5,01/12/2018,12, December ,2018
+479,France, Snickerdoodle ,1174.0,4.0,1.5,4696.0,1761.0,2935.0,01/08/2019,8, August ,2019
+480,Germany, Snickerdoodle ,2767.0,4.0,1.5,11068.0,4150.5,6917.5,01/08/2019,8, August ,2019
+481,Germany, Snickerdoodle ,1085.0,4.0,1.5,4340.0,1627.5,2712.5,01/10/2019,10, October ,2019
+482,Canada, Sugar ,2001.0,3.0,1.25,6003.0,2501.25,3501.75,01/02/2019,2, February ,2019
+483,Germany, Sugar ,2838.0,3.0,1.25,8514.0,3547.5,4966.5,01/04/2019,4, April ,2019
+484,France, Sugar ,2178.0,3.0,1.25,6534.0,2722.5,3811.5,01/06/2019,6, June ,2019
+485,Germany, Sugar ,888.0,3.0,1.25,2664.0,1110.0,1554.0,01/06/2019,6, June ,2019
+486,France, Sugar ,1527.0,3.0,1.25,4581.0,1908.75,2672.25,01/09/2018,9, September ,2018
+487,France, Sugar ,2151.0,3.0,1.25,6453.0,2688.75,3764.25,01/09/2019,9, September ,2019
+488,Canada, Sugar ,1817.0,3.0,1.25,5451.0,2271.25,3179.75,01/12/2019,12, December ,2019
+489,Canada, Sugar ,1326.0,3.0,1.25,3978.0,1657.5,2320.5,01/03/2019,3, March ,2019
+490,Germany, Sugar ,263.0,3.0,1.25,789.0,328.75,460.25,01/03/2019,3, March ,2019
+491,Canada, Sugar ,943.5,3.0,1.25,2830.5,1179.38,1651.13,01/04/2019,4, April ,2019
+492,United States, Sugar ,727.0,3.0,1.25,2181.0,908.75,1272.25,01/06/2019,6, June ,2019
+493,France, Sugar ,787.0,3.0,1.25,2361.0,983.75,1377.25,01/06/2019,6, June ,2019
+494,Germany, Sugar ,986.0,3.0,1.25,2958.0,1232.5,1725.5,01/09/2019,9, September ,2019
+495,Mexico, Sugar ,494.0,3.0,1.25,1482.0,617.5,864.5,01/10/2018,10, October ,2018
+496,Mexico, Sugar ,1397.0,3.0,1.25,4191.0,1746.25,2444.75,01/10/2019,10, October ,2019
+497,France, Sugar ,1744.0,3.0,1.25,5232.0,2180.0,3052.0,01/11/2019,11, November ,2019
+498,Mexico, Sugar ,662.0,3.0,1.25,1986.0,827.5,1158.5,01/06/2019,6, June ,2019
+499,Germany, Sugar ,214.0,3.0,1.25,642.0,267.5,374.5,01/10/2018,10, October ,2018
+500,Germany, Sugar ,2877.0,3.0,1.25,8631.0,3596.25,5034.75,01/10/2019,10, October ,2019
+501,Canada, Sugar ,2729.0,3.0,1.25,8187.0,3411.25,4775.75,01/12/2019,12, December ,2019
+502,United States, Sugar ,266.0,3.0,1.25,798.0,332.5,465.5,01/12/2018,12, December ,2018
+503,Mexico, Sugar ,1940.0,3.0,1.25,5820.0,2425.0,3395.0,01/12/2018,12, December ,2018
+504,United States, Sugar ,2844.0,3.0,1.25,8532.0,3555.0,4977.0,01/02/2019,2, February ,2019
+505,Mexico, Sugar ,1916.0,3.0,1.25,5748.0,2395.0,3353.0,01/04/2019,4, April ,2019
+506,Germany, Sugar ,1570.0,3.0,1.25,4710.0,1962.5,2747.5,01/06/2019,6, June ,2019
+507,Canada, Sugar ,1874.0,3.0,1.25,5622.0,2342.5,3279.5,01/08/2019,8, August ,2019
+508,Mexico, Sugar ,1642.0,3.0,1.25,4926.0,2052.5,2873.5,01/08/2019,8, August ,2019
+509,Germany, Sugar ,1945.0,3.0,1.25,5835.0,2431.25,3403.75,01/10/2018,10, October ,2018
+510,Germany, Sugar ,2479.0,3.0,1.25,7437.0,3098.75,4338.25,01/01/2019,1, January ,2019
+511,France, Sugar ,866.0,3.0,1.25,2598.0,1082.5,1515.5,01/05/2019,5, May ,2019
+512,United States, Sugar ,349.0,3.0,1.25,1047.0,436.25,610.75,01/09/2018,9, September ,2018
+513,France, Sugar ,2177.0,3.0,1.25,6531.0,2721.25,3809.75,01/10/2019,10, October ,2019
+514,Mexico, Sugar ,1514.0,3.0,1.25,4542.0,1892.5,2649.5,01/10/2018,10, October ,2018
+515,Mexico, Sugar ,2689.0,3.0,1.25,8067.0,3361.25,4705.75,01/10/2019,10, October ,2019
+516,Canada, Sugar ,1389.0,3.0,1.25,4167.0,1736.25,2430.75,01/10/2018,10, October ,2018
+517,United States, Sugar ,1265.0,3.0,1.25,3795.0,1581.25,2213.75,01/11/2018,11, November ,2018
+518,Germany, Sugar ,2297.0,3.0,1.25,6891.0,2871.25,4019.75,01/11/2018,11, November ,2018
+519,United States, Sugar ,2663.0,3.0,1.25,7989.0,3328.75,4660.25,01/12/2019,12, December ,2019
+520,United States, Sugar ,570.0,3.0,1.25,1710.0,712.5,997.5,01/12/2019,12, December ,2019
+521,France, Sugar ,2487.0,3.0,1.25,7461.0,3108.75,4352.25,01/12/2019,12, December ,2019
+522,Canada, Sugar ,2844.0,3.0,1.25,8532.0,3555.0,4977.0,01/06/2019,6, June ,2019
+523,Mexico, Sugar ,1498.0,3.0,1.25,4494.0,1872.5,2621.5,01/06/2019,6, June ,2019
+524,France, Sugar ,1221.0,3.0,1.25,3663.0,1526.25,2136.75,01/10/2018,10, October ,2018
+525,Mexico, Sugar ,1123.0,3.0,1.25,3369.0,1403.75,1965.25,01/11/2018,11, November ,2018
+526,Canada, Sugar ,2436.0,3.0,1.25,7308.0,3045.0,4263.0,01/12/2018,12, December ,2018
+527,United States, Sugar ,1153.0,3.0,1.25,3459.0,1441.25,2017.75,01/10/2019,10, October ,2019
+528,France, Sugar ,1738.5,3.0,1.25,5215.5,2173.13,3042.38,01/04/2019,4, April ,2019
+529,Germany, Sugar ,2215.0,3.0,1.25,6645.0,2768.75,3876.25,01/09/2018,9, September ,2018
+530,Canada, Sugar ,1582.0,3.0,1.25,4746.0,1977.5,2768.5,01/12/2019,12, December ,2019
+531,Canada, Sugar ,3244.5,3.0,1.25,9733.5,4055.63,5677.88,01/01/2019,1, January ,2019
+532,France, Sugar ,959.0,3.0,1.25,2877.0,1198.75,1678.25,01/02/2019,2, February ,2019
+533,Mexico, Sugar ,2747.0,3.0,1.25,8241.0,3433.75,4807.25,01/02/2019,2, February ,2019
+534,France, Sugar ,574.5,3.0,1.25,1723.5,718.13,1005.38,01/04/2019,4, April ,2019
+535,Germany, Sugar ,2338.0,3.0,1.25,7014.0,2922.5,4091.5,01/06/2019,6, June ,2019
+536,France, Sugar ,381.0,3.0,1.25,1143.0,476.25,666.75,01/08/2019,8, August ,2019
+537,Germany, Sugar ,422.0,3.0,1.25,1266.0,527.5,738.5,01/08/2019,8, August ,2019
+538,Canada, Sugar ,2134.0,3.0,1.25,6402.0,2667.5,3734.5,01/09/2019,9, September ,2019
+539,United States, Sugar ,808.0,3.0,1.25,2424.0,1010.0,1414.0,01/12/2018,12, December ,2018
+540,United States, Sugar ,436.5,3.0,1.25,1309.5,545.63,763.88,01/07/2019,7, July ,2019
+541,United States, Sugar ,1956.0,3.0,1.25,5868.0,2445.0,3423.0,01/01/2019,1, January ,2019
+542,Germany, Sugar ,2659.0,3.0,1.25,7977.0,3323.75,4653.25,01/02/2019,2, February ,2019
+543,United States, Sugar ,1351.5,3.0,1.25,4054.5,1689.38,2365.13,01/04/2019,4, April ,2019
+544,Germany, Sugar ,880.0,3.0,1.25,2640.0,1100.0,1540.0,01/05/2019,5, May ,2019
+545,United States, Sugar ,1867.0,3.0,1.25,5601.0,2333.75,3267.25,01/09/2019,9, September ,2019
+546,France, Sugar ,2234.0,3.0,1.25,6702.0,2792.5,3909.5,01/09/2018,9, September ,2018
+547,France, Sugar ,1227.0,3.0,1.25,3681.0,1533.75,2147.25,01/10/2019,10, October ,2019
+548,Mexico, Sugar ,877.0,3.0,1.25,2631.0,1096.25,1534.75,01/11/2019,11, November ,2019
+549,Germany, Sugar ,360.0,3.0,1.25,1080.0,450.0,630.0,01/10/2019,10, October ,2019
+550,France, Sugar ,2682.0,3.0,1.25,8046.0,3352.5,4693.5,01/11/2018,11, November ,2018
+551,Mexico, Sugar ,521.0,3.0,1.25,1563.0,651.25,911.75,01/12/2019,12, December ,2019
+552,Mexico, Sugar ,341.0,3.0,1.25,1023.0,426.25,596.75,01/05/2019,5, May ,2019
+553,Mexico, Sugar ,641.0,3.0,1.25,1923.0,801.25,1121.75,01/07/2019,7, July ,2019
+554,United States, Sugar ,2807.0,3.0,1.25,8421.0,3508.75,4912.25,01/08/2019,8, August ,2019
+555,Mexico, Sugar ,432.0,3.0,1.25,1296.0,540.0,756.0,01/09/2019,9, September ,2019
+556,United States, Sugar ,2294.0,3.0,1.25,6882.0,2867.5,4014.5,01/10/2018,10, October ,2018
+557,France, Sugar ,2167.0,3.0,1.25,6501.0,2708.75,3792.25,01/10/2018,10, October ,2018
+558,Canada, Sugar ,2529.0,3.0,1.25,7587.0,3161.25,4425.75,01/11/2019,11, November ,2019
+559,Germany, Sugar ,1870.0,3.0,1.25,5610.0,2337.5,3272.5,01/12/2018,12, December ,2018
+560,United States, Sugar ,1579.0,3.0,1.25,4737.0,1973.75,2763.25,01/03/2019,3, March ,2019
+561,Mexico, Sugar ,1005.0,3.0,1.25,3015.0,1256.25,1758.75,01/09/2018,9, September ,2018
+562,France, Sugar ,1734.0,3.0,1.25,5202.0,2167.5,3034.5,01/01/2019,1, January ,2019
+563,Mexico, Sugar ,554.0,3.0,1.25,1662.0,692.5,969.5,01/01/2019,1, January ,2019
+564,Canada, Sugar ,2935.0,3.0,1.25,8805.0,3668.75,5136.25,01/11/2018,11, November ,2018
+565,Canada, Sugar ,2109.0,3.0,1.25,6327.0,2636.25,3690.75,01/05/2019,5, May ,2019
+566,France, Sugar ,3874.5,3.0,1.25,11623.5,4843.13,6780.38,01/07/2019,7, July ,2019
+567,Canada, Sugar ,623.0,3.0,1.25,1869.0,778.75,1090.25,01/09/2018,9, September ,2018
+568,United States, Sugar ,986.0,3.0,1.25,2958.0,1232.5,1725.5,01/10/2019,10, October ,2019
+569,United States, Sugar ,2387.0,3.0,1.25,7161.0,2983.75,4177.25,01/11/2019,11, November ,2019
+570,Mexico, Sugar ,1233.0,3.0,1.25,3699.0,1541.25,2157.75,01/12/2019,12, December ,2019
+571,France, Sugar ,1491.0,3.0,1.25,4473.0,1863.75,2609.25,01/03/2019,3, March ,2019
+572,Germany, Sugar ,1531.0,3.0,1.25,4593.0,1913.75,2679.25,01/12/2019,12, December ,2019
+573,United States, Sugar ,2567.0,3.0,1.25,7701.0,3208.75,4492.25,01/06/2019,6, June ,2019
+574,Canada, Sugar ,1583.0,3.0,1.25,4749.0,1978.75,2770.25,01/06/2019,6, June ,2019
+575,Canada, Sugar ,1565.0,3.0,1.25,4695.0,1956.25,2738.75,01/10/2019,10, October ,2019
+576,Germany, Sugar ,280.0,3.0,1.25,840.0,350.0,490.0,01/12/2019,12, December ,2019
+577,Mexico, Sugar ,2903.0,3.0,1.25,8709.0,3628.75,5080.25,01/03/2019,3, March ,2019
+578,United States, Sugar ,2541.0,3.0,1.25,7623.0,3176.25,4446.75,01/08/2019,8, August ,2019
+579,Canada, Sugar ,269.0,3.0,1.25,807.0,336.25,470.75,01/10/2018,10, October ,2018
+580,Canada, Sugar ,1496.0,3.0,1.25,4488.0,1870.0,2618.0,01/10/2019,10, October ,2019
+581,United States, Sugar ,1010.0,3.0,1.25,3030.0,1262.5,1767.5,01/10/2019,10, October ,2019
+582,France, Sugar ,1281.0,3.0,1.25,3843.0,1601.25,2241.75,01/12/2018,12, December ,2018
+583,Canada, Sugar ,865.5,3.0,1.25,2596.5,1081.88,1514.63,01/07/2019,7, July ,2019
+584,Germany, Sugar ,492.0,3.0,1.25,1476.0,615.0,861.0,01/07/2019,7, July ,2019
+585,United States, Sugar ,267.0,3.0,1.25,801.0,333.75,467.25,01/10/2018,10, October ,2018
+586,Germany, Sugar ,1175.0,3.0,1.25,3525.0,1468.75,2056.25,01/10/2019,10, October ,2019
+587,Canada, Sugar ,2954.0,3.0,1.25,8862.0,3692.5,5169.5,01/11/2018,11, November ,2018
+588,Germany, Sugar ,552.0,3.0,1.25,1656.0,690.0,966.0,01/11/2019,11, November ,2019
+589,France, Sugar ,293.0,3.0,1.25,879.0,366.25,512.75,01/12/2019,12, December ,2019
+590,United States, Sugar ,1806.0,3.0,1.25,5418.0,2257.5,3160.5,01/05/2019,5, May ,2019
+591,Mexico, White Chocolate Macadamia Nut ,1493.0,6.0,2.75,8958.0,4105.75,4852.25,01/01/2019,1, January ,2019
+592,France, White Chocolate Macadamia Nut ,1804.0,6.0,2.75,10824.0,4961.0,5863.0,01/02/2019,2, February ,2019
+593,Germany, White Chocolate Macadamia Nut ,2161.0,6.0,2.75,12966.0,5942.75,7023.25,01/03/2019,3, March ,2019
+594,Germany, White Chocolate Macadamia Nut ,1006.0,6.0,2.75,6036.0,2766.5,3269.5,01/06/2019,6, June ,2019
+595,Germany, White Chocolate Macadamia Nut ,1545.0,6.0,2.75,9270.0,4248.75,5021.25,01/06/2019,6, June ,2019
+596,United States, White Chocolate Macadamia Nut ,2821.0,6.0,2.75,16926.0,7757.75,9168.25,01/08/2019,8, August ,2019
+597,Canada, White Chocolate Macadamia Nut ,345.0,6.0,2.75,2070.0,948.75,1121.25,01/10/2018,10, October ,2018
+598,France, White Chocolate Macadamia Nut ,639.0,6.0,2.75,3834.0,1757.25,2076.75,01/11/2019,11, November ,2019
+599,France, White Chocolate Macadamia Nut ,3864.0,6.0,2.75,23184.0,10626.0,12558.0,01/04/2019,4, April ,2019
+600,Mexico, White Chocolate Macadamia Nut ,362.0,6.0,2.75,2172.0,995.5,1176.5,01/05/2019,5, May ,2019
+601,Canada, White Chocolate Macadamia Nut ,923.0,6.0,2.75,5538.0,2538.25,2999.75,01/08/2019,8, August ,2019
+602,United States, White Chocolate Macadamia Nut ,663.0,6.0,2.75,3978.0,1823.25,2154.75,01/10/2018,10, October ,2018
+603,Canada, White Chocolate Macadamia Nut ,2092.0,6.0,2.75,12552.0,5753.0,6799.0,01/11/2018,11, November ,2018
+604,United States, White Chocolate Macadamia Nut ,1566.0,6.0,2.75,9396.0,4306.5,5089.5,01/10/2019,10, October ,2019
+605,Germany, White Chocolate Macadamia Nut ,2966.0,6.0,2.75,17796.0,8156.5,9639.5,01/10/2018,10, October ,2018
+606,Germany, White Chocolate Macadamia Nut ,2877.0,6.0,2.75,17262.0,7911.75,9350.25,01/10/2019,10, October ,2019
+607,Germany, White Chocolate Macadamia Nut ,809.0,6.0,2.75,4854.0,2224.75,2629.25,01/10/2018,10, October ,2018
+608,Mexico, White Chocolate Macadamia Nut ,2145.0,6.0,2.75,12870.0,5898.75,6971.25,01/10/2018,10, October ,2018
+609,France, White Chocolate Macadamia Nut ,1055.0,6.0,2.75,6330.0,2901.25,3428.75,01/12/2019,12, December ,2019
+610,Mexico, White Chocolate Macadamia Nut ,544.0,6.0,2.75,3264.0,1496.0,1768.0,01/12/2018,12, December ,2018
+611,Mexico, White Chocolate Macadamia Nut ,1084.0,6.0,2.75,6504.0,2981.0,3523.0,01/12/2019,12, December ,2019
+612,Canada, White Chocolate Macadamia Nut ,2009.0,6.0,2.75,12054.0,5524.75,6529.25,01/10/2019,10, October ,2019
+613,Canada, White Chocolate Macadamia Nut ,3850.5,6.0,2.75,23103.0,10588.88,12514.13,01/04/2019,4, April ,2019
+614,United States, White Chocolate Macadamia Nut ,736.0,6.0,2.75,4416.0,2024.0,2392.0,01/09/2018,9, September ,2018
+615,United States, White Chocolate Macadamia Nut ,1465.0,6.0,2.75,8790.0,4028.75,4761.25,01/03/2019,3, March ,2019
+616,Canada, White Chocolate Macadamia Nut ,2646.0,6.0,2.75,15876.0,7276.5,8599.5,01/09/2018,9, September ,2018
+617,France, White Chocolate Macadamia Nut ,2177.0,6.0,2.75,13062.0,5986.75,7075.25,01/10/2019,10, October ,2019
+618,Canada, White Chocolate Macadamia Nut ,2431.0,6.0,2.75,14586.0,6685.25,7900.75,01/12/2019,12, December ,2019
+619,United States, White Chocolate Macadamia Nut ,555.0,6.0,2.75,3330.0,1526.25,1803.75,01/01/2019,1, January ,2019
+620,Mexico, White Chocolate Macadamia Nut ,2861.0,6.0,2.75,17166.0,7867.75,9298.25,01/01/2019,1, January ,2019
+621,Germany, White Chocolate Macadamia Nut ,807.0,6.0,2.75,4842.0,2219.25,2622.75,01/02/2019,2, February ,2019
+622,United States, White Chocolate Macadamia Nut ,602.0,6.0,2.75,3612.0,1655.5,1956.5,01/06/2019,6, June ,2019
+623,United States, White Chocolate Macadamia Nut ,2832.0,6.0,2.75,16992.0,7788.0,9204.0,01/08/2019,8, August ,2019
+624,France, White Chocolate Macadamia Nut ,1579.0,6.0,2.75,9474.0,4342.25,5131.75,01/08/2019,8, August ,2019
+625,United States, White Chocolate Macadamia Nut ,861.0,6.0,2.75,5166.0,2367.75,2798.25,01/10/2019,10, October ,2019
+626,France, White Chocolate Macadamia Nut ,704.0,6.0,2.75,4224.0,1936.0,2288.0,01/10/2018,10, October ,2018
+627,France, White Chocolate Macadamia Nut ,1033.0,6.0,2.75,6198.0,2840.75,3357.25,01/12/2018,12, December ,2018
+628,Germany, White Chocolate Macadamia Nut ,1250.0,6.0,2.75,7500.0,3437.5,4062.5,01/12/2019,12, December ,2019
+629,Canada, White Chocolate Macadamia Nut ,952.0,6.0,2.75,5712.0,2618.0,3094.0,01/02/2019,2, February ,2019
+630,United States, White Chocolate Macadamia Nut ,2755.0,6.0,2.75,16530.0,7576.25,8953.75,01/02/2019,2, February ,2019
+631,Germany, White Chocolate Macadamia Nut ,1530.0,6.0,2.75,9180.0,4207.5,4972.5,01/05/2019,5, May ,2019
+632,France, White Chocolate Macadamia Nut ,1496.0,6.0,2.75,8976.0,4114.0,4862.0,01/06/2019,6, June ,2019
+633,Mexico, White Chocolate Macadamia Nut ,1498.0,6.0,2.75,8988.0,4119.5,4868.5,01/06/2019,6, June ,2019
+634,France, White Chocolate Macadamia Nut ,1221.0,6.0,2.75,7326.0,3357.75,3968.25,01/10/2018,10, October ,2018
+635,France, White Chocolate Macadamia Nut ,2076.0,6.0,2.75,12456.0,5709.0,6747.0,01/10/2018,10, October ,2018
+636,Germany, White Chocolate Macadamia Nut ,1001.0,6.0,2.75,6006.0,2752.75,3253.25,01/08/2019,8, August ,2019
+637,Mexico, White Chocolate Macadamia Nut ,1333.0,6.0,2.75,7998.0,3665.75,4332.25,01/11/2019,11, November ,2019
+638,Canada, White Chocolate Macadamia Nut ,1262.0,6.0,2.75,7572.0,3470.5,4101.5,01/05/2019,5, May ,2019
+639,Canada, White Chocolate Macadamia Nut ,1135.0,6.0,2.75,6810.0,3121.25,3688.75,01/06/2019,6, June ,2019
+640,United States, White Chocolate Macadamia Nut ,547.0,6.0,2.75,3282.0,1504.25,1777.75,01/11/2019,11, November ,2019
+641,Canada, White Chocolate Macadamia Nut ,1582.0,6.0,2.75,9492.0,4350.5,5141.5,01/12/2019,12, December ,2019
+642,France, White Chocolate Macadamia Nut ,1659.0,6.0,2.75,9954.0,4562.25,5391.75,01/07/2019,7, July ,2019
+643,Mexico, White Chocolate Macadamia Nut ,609.0,6.0,2.75,3654.0,1674.75,1979.25,01/08/2019,8, August ,2019
+644,Germany, White Chocolate Macadamia Nut ,2087.0,6.0,2.75,12522.0,5739.25,6782.75,01/09/2019,9, September ,2019
+645,France, White Chocolate Macadamia Nut ,1976.0,6.0,2.75,11856.0,5434.0,6422.0,01/10/2019,10, October ,2019
+646,United States, White Chocolate Macadamia Nut ,1421.0,6.0,2.75,8526.0,3907.75,4618.25,01/12/2018,12, December ,2018
+647,United States, White Chocolate Macadamia Nut ,1372.0,6.0,2.75,8232.0,3773.0,4459.0,01/12/2019,12, December ,2019
+648,Germany, White Chocolate Macadamia Nut ,588.0,6.0,2.75,3528.0,1617.0,1911.0,01/12/2018,12, December ,2018
+649,Canada, White Chocolate Macadamia Nut ,598.0,6.0,2.75,3588.0,1644.5,1943.5,01/03/2019,3, March ,2019
+650,United States, White Chocolate Macadamia Nut ,2907.0,6.0,2.75,17442.0,7994.25,9447.75,01/06/2019,6, June ,2019
+651,Germany, White Chocolate Macadamia Nut ,2338.0,6.0,2.75,14028.0,6429.5,7598.5,01/06/2019,6, June ,2019
+652,France, White Chocolate Macadamia Nut ,386.0,6.0,2.75,2316.0,1061.5,1254.5,01/11/2018,11, November ,2018
+653,Mexico, White Chocolate Macadamia Nut ,635.0,6.0,2.75,3810.0,1746.25,2063.75,01/12/2019,12, December ,2019
+654,Mexico, White Chocolate Macadamia Nut ,245.0,6.0,2.75,1470.0,673.75,796.25,01/05/2019,5, May ,2019
+655,Canada, White Chocolate Macadamia Nut ,3793.5,6.0,2.75,22761.0,10432.13,12328.88,01/07/2019,7, July ,2019
+656,Germany, White Chocolate Macadamia Nut ,1307.0,6.0,2.75,7842.0,3594.25,4247.75,01/07/2019,7, July ,2019
+657,Canada, White Chocolate Macadamia Nut ,567.0,6.0,2.75,3402.0,1559.25,1842.75,01/09/2019,9, September ,2019
+658,Mexico, White Chocolate Macadamia Nut ,2110.0,6.0,2.75,12660.0,5802.5,6857.5,01/09/2019,9, September ,2019
+659,Canada, White Chocolate Macadamia Nut ,1269.0,6.0,2.75,7614.0,3489.75,4124.25,01/10/2019,10, October ,2019
+660,France, White Chocolate Macadamia Nut ,1967.0,6.0,2.75,11802.0,5409.25,6392.75,01/03/2019,3, March ,2019
+661,Mexico, White Chocolate Macadamia Nut ,2628.0,6.0,2.75,15768.0,7227.0,8541.0,01/04/2019,4, April ,2019
+662,Germany, White Chocolate Macadamia Nut ,681.0,6.0,2.75,4086.0,1872.75,2213.25,01/01/2019,1, January ,2019
+663,Germany, White Chocolate Macadamia Nut ,510.0,6.0,2.75,3060.0,1402.5,1657.5,01/04/2019,4, April ,2019
+664,United States, White Chocolate Macadamia Nut ,790.0,6.0,2.75,4740.0,2172.5,2567.5,01/05/2019,5, May ,2019
+665,France, White Chocolate Macadamia Nut ,639.0,6.0,2.75,3834.0,1757.25,2076.75,01/07/2019,7, July ,2019
+666,United States, White Chocolate Macadamia Nut ,1596.0,6.0,2.75,9576.0,4389.0,5187.0,01/09/2019,9, September ,2019
+667,United States, White Chocolate Macadamia Nut ,2294.0,6.0,2.75,13764.0,6308.5,7455.5,01/10/2018,10, October ,2018
+668,Germany, White Chocolate Macadamia Nut ,241.0,6.0,2.75,1446.0,662.75,783.25,01/10/2019,10, October ,2019
+669,Germany, White Chocolate Macadamia Nut ,2665.0,6.0,2.75,15990.0,7328.75,8661.25,01/11/2019,11, November ,2019
+670,Canada, White Chocolate Macadamia Nut ,1916.0,6.0,2.75,11496.0,5269.0,6227.0,01/12/2018,12, December ,2018
+671,France, White Chocolate Macadamia Nut ,853.0,6.0,2.75,5118.0,2345.75,2772.25,01/12/2019,12, December ,2019
+672,Canada, White Chocolate Macadamia Nut ,384.0,6.0,2.75,2304.0,1056.0,1248.0,01/01/2019,1, January ,2019
+673,Germany, White Chocolate Macadamia Nut ,472.0,6.0,2.75,2832.0,1298.0,1534.0,01/10/2019,10, October ,2019
+674,France, White Chocolate Macadamia Nut ,2805.0,6.0,2.75,16830.0,7713.75,9116.25,01/09/2018,9, September ,2018
+675,Mexico, White Chocolate Macadamia Nut ,655.0,6.0,2.75,3930.0,1801.25,2128.75,01/09/2018,9, September ,2018
+676,Mexico, White Chocolate Macadamia Nut ,344.0,6.0,2.75,2064.0,946.0,1118.0,01/10/2018,10, October ,2018
+677,Canada, White Chocolate Macadamia Nut ,1808.0,6.0,2.75,10848.0,4972.0,5876.0,01/11/2019,11, November ,2019
+678,Mexico, White Chocolate Macadamia Nut ,1395.0,6.0,2.75,8370.0,3836.25,4533.75,01/07/2019,7, July ,2019
+679,United States, White Chocolate Macadamia Nut ,986.0,6.0,2.75,5916.0,2711.5,3204.5,01/10/2019,10, October ,2019
+680,Mexico, White Chocolate Macadamia Nut ,905.0,6.0,2.75,5430.0,2488.75,2941.25,01/10/2019,10, October ,2019
+681,France, White Chocolate Macadamia Nut ,3997.5,6.0,2.75,23985.0,10993.13,12991.88,01/01/2019,1, January ,2019
+682,Canada, White Chocolate Macadamia Nut ,2632.0,6.0,2.75,15792.0,7238.0,8554.0,01/06/2019,6, June ,2019
+683,France, White Chocolate Macadamia Nut ,1190.0,6.0,2.75,7140.0,3272.5,3867.5,01/06/2019,6, June ,2019
+684,Mexico, White Chocolate Macadamia Nut ,604.0,6.0,2.75,3624.0,1661.0,1963.0,01/06/2019,6, June ,2019
+685,Germany, White Chocolate Macadamia Nut ,660.0,6.0,2.75,3960.0,1815.0,2145.0,01/09/2018,9, September ,2018
+686,Mexico, White Chocolate Macadamia Nut ,410.0,6.0,2.75,2460.0,1127.5,1332.5,01/10/2019,10, October ,2019
+687,Mexico, White Chocolate Macadamia Nut ,2605.0,6.0,2.75,15630.0,7163.75,8466.25,01/11/2018,11, November ,2018
+688,Germany, White Chocolate Macadamia Nut ,1013.0,6.0,2.75,6078.0,2785.75,3292.25,01/12/2019,12, December ,2019
+689,Mexico, White Chocolate Macadamia Nut ,1575.0,6.0,2.75,9450.0,4331.25,5118.75,01/02/2019,2, February ,2019
+690,United States, White Chocolate Macadamia Nut ,606.0,6.0,2.75,3636.0,1666.5,1969.5,01/04/2019,4, April ,2019
+691,United States, White Chocolate Macadamia Nut ,2460.0,6.0,2.75,14760.0,6765.0,7995.0,01/07/2019,7, July ,2019
+692,Canada, White Chocolate Macadamia Nut ,269.0,6.0,2.75,1614.0,739.75,874.25,01/10/2018,10, October ,2018
+693,Germany, White Chocolate Macadamia Nut ,2536.0,6.0,2.75,15216.0,6974.0,8242.0,01/11/2018,11, November ,2018
+694,Mexico, White Chocolate Macadamia Nut ,500.0,6.0,2.75,3000.0,1375.0,1625.0,01/03/2019,3, March ,2019
+695,France, White Chocolate Macadamia Nut ,2826.0,6.0,2.75,16956.0,7771.5,9184.5,01/05/2019,5, May ,2019
+696,France, White Chocolate Macadamia Nut ,663.0,6.0,2.75,3978.0,1823.25,2154.75,01/09/2019,9, September ,2019
+697,United States, White Chocolate Macadamia Nut ,2574.0,6.0,2.75,15444.0,7078.5,8365.5,01/11/2018,11, November ,2018
+698,United States, White Chocolate Macadamia Nut ,2438.0,6.0,2.75,14628.0,6704.5,7923.5,01/12/2018,12, December ,2018
+699,United States, White Chocolate Macadamia Nut ,914.0,6.0,2.75,5484.0,2513.5,2970.5,01/12/2019,12, December ,2019
